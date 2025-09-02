@@ -1,0 +1,12 @@
+# Environment Variables (DO NOT UPLOAD YOUR PASSWORD)
+.env
+server/.env
+
+# Dependencies
+node_modules
+client/node_modules
+server/node_modules
+
+# Production build folders
+build
+client/build
